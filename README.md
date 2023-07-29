@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avanish Yadav</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <p align="center"> <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanishyadav967&label=Profile%20views&color=0e75b6&style=flat" alt="awanishyadav967" /> </p>
