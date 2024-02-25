@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android<br>💬 Ask me about Android , ML ,Web ,DSA<br>⚡ Fun fact -I am Lazy but Smart
+🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android<br>💬 Ask me about Android ,Web ,ML<br>⚡ Fun fact -I am Lazy but Smart
 
 
 ## 🌐 Socials:
