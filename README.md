@@ -41,7 +41,6 @@ I build practical backend and security tools with a focus on clean architecture,
 
 ## `cat open-source.log`
 
-- 🏢 Organization: [avanish23-codacy-test](https://github.com/avanish23-codacy-test)
 - 🛡️ Contributor: [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 - 🤝 Interested in backend engineering, application security and AI-security collaboration
 
