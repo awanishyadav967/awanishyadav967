@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00aa44,100:00ff88&height=210&section=header&text=AVANISH%20YADAV&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00aa44&height=210&section=header&text=AVANISH%20YADAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20Learning%20Node.js%20and%20AI%20Engineering&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Building+secure+and+scalable+backend+systems;Breaking+things+ethically+to+make+them+stronger;Exploring+AI+Security+and+LLM+Pentesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Security+Engineer+focused+on+web+and+API+security;Learning+backend+development+with+Node.js;Exploring+AI+engineering+and+LLM+security;Combining+security+with+the+tools+I+build)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awanishyadav967&label=PROFILE+VIEWS&color=00b75a&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish-yadav-in/)
@@ -13,43 +13,55 @@
 
 ## `root@avanish:~$ whoami`
 
-```bash
-> Backend engineer focused on Java, Spring Boot and secure APIs
-> Security enthusiast exploring web, API and LLM pentesting
-> Open-source contributor who learns by building and shipping
+```text
+> Security engineer focused on web and API security
+> Learning backend development with Node.js and applying security along the way
+> Learning AI engineering and exploring LLM security
 ```
 
-I build practical backend and security tools with a focus on clean architecture, reliability and real-world impact. Currently sharpening my Spring Boot expertise and exploring how AI systems can be tested, secured and made more resilient.
+I'm a security engineer learning how to build the systems I test. My current focus is backend development with Node.js—connecting application security with API design, authentication and secure coding. Alongside that, I'm learning AI engineering and exploring how to build, test and secure LLM applications.
 
 ## `./stack --focused`
 
+### Security
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-00AA55?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web_Security-00AA55?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![API Security](https://img.shields.io/badge/API_Security-00AA55?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![LLM Security](https://img.shields.io/badge/LLM_Security-00AA55?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-## `cat open-source.log`
+### Backend development — learning with Node.js
 
-- 🛡️ Contributor: [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- 🤝 Interested in backend engineering, application security and AI-security collaboration
+<div align="center">
 
-## `ls ./selected-projects`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00AA55?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- [AI-Security-Scanner](https://github.com/awanishyadav967/AI-Security-Scanner) — security tooling for AI-focused applications
-- [URL-Shortener-Redis](https://github.com/awanishyadav967/URL-Shortener-Redis) — fast URL-shortening service backed by Redis
-- [Food-For-All](https://github.com/awanishyadav967/Food-For-All) — technology built around social impact
-- [llm-abbvienet](https://github.com/awanishyadav967/llm-abbvienet) — experimentation with LLM applications
+</div>
+
+### AI engineering — learning and exploring
+
+<div align="center">
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-00AA55?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-00AA55?style=for-the-badge)
+![LLM Security](https://img.shields.io/badge/LLM_Security-00AA55?style=for-the-badge)
+
+</div>
+
+## `cat learning.log`
+
+- **Node.js backend development:** building APIs and learning authentication, authorization and database integration.
+- **Security + development:** applying what I learn from web and API testing to the code I write.
+- **AI engineering:** learning to build LLM applications and exploring their security risks.
 
 ## `git stats --global`
 
@@ -65,13 +77,9 @@ I build practical backend and security tools with a focus on clean architecture,
 </div>
 
 ---
-
-> [!IMPORTANT]
-> All security work shared here is intended for ethical testing, learning and authorized environments only.
-
 <div align="center">
 
-`System status: learning • building • securing`
+`System status: securing • building • learning`
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00aa44,100:00ff88&height=110&section=footer)
 
