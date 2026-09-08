@@ -67,12 +67,12 @@ I'm a security engineer learning how to build the systems I test. My current foc
 
 <div align="center">
 
-![Avanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=awanishyadav967&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
+![Avanish's GitHub stats](https://github-stats-extended.vercel.app/api?username=awanishyadav967&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=awanishyadav967&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awanishyadav967&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=awanishyadav967&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=awanishyadav967&theme=matrix&no-frame=true&no-bg=true&margin-w=8)
+<!-- Trophies temporarily hidden: image service unavailable -->
 
 </div>
 
