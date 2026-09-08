@@ -19,7 +19,7 @@
 > Learning AI engineering and exploring LLM security
 ```
 
-I'm a security engineer learning how to build the systems I test. My current focus is backend development with Node.js—connecting application security with API design, authentication and secure coding. Alongside that, I'm learning AI engineering and exploring how to build, test and secure LLM applications.
+I'm a security engineer learning how to build the systems I test. My current focus is backend development with Node.js connecting application security with API design, authentication and secure coding. Alongside that, I'm learning AI engineering and exploring how to build, test and secure LLM applications.
 
 ## `./stack --focused`
 
