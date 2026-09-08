@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00aa44&height=210&section=header&text=AVANISH%20YADAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20Learning%20Node.js%20and%20AI%20Engineering&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Security+Engineer+focused+on+web+and+API+security;Learning+backend+development+with+Node.js;Exploring+AI+engineering+and+LLM+security;Combining+security+with+the+tools+I+build)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Security+Engineer+focused+on+web+API+and+AI+security;Learning+backend+development+with+Node.js;Exploring+AI+engineering+and+LLM+security;Combining+security+with+the+tools+I+build)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awanishyadav967&label=PROFILE+VIEWS&color=00b75a&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish-yadav-in/)
